@@ -1,0 +1,25 @@
+body {
+    background-color:seashell;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color:brown;
+    font-family: fantasy;
+    text-align: center;
+}
+
+h2 { font-display:sans serif;
+    color:darkred;
+}
+
+img {
+    
+    width: 250px auto;
+}
+p {
+  font-family: monospace;
+    color:darkbrown;
+}
