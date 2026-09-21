@@ -17,9 +17,10 @@ h2 { font-display:sans serif;
 
 img {
     
-    width: 250px auto;
+    width: 250px;
 }
 p {
   font-family: monospace;
     color:darkbrown;
 }
+
